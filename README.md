@@ -1,11 +1,20 @@
 ###
 
-<h1 align="center">Heyy wasupp? I'm Quant 🤙<width="30px"></h1>
-Software Developer · Linux User · AI & Open Source Enthusiast
+<div align="center">
+  <h1>
+    Heyy wasupp? I'm Quant 🤙
+  </h1>
+</div>
 
-I build software, experiment with Linux, explore AI, and occasionally turn questionable ideas into working projects.
+<p align="center">
+  <img alt="Software Developer" src="https://img.shields.io/badge/Software%20Developer-181717?logo=visualstudiocode&logoColor=white&style=for-the-badge" style="vertical-align: middle;">
+  <span style="color: #00BCD4; display: inline-block; vertical-align: middle; margin: 0 8px; font-size: 20px; line-height: ;">&bull;</span>
+  <img alt="Linux User" src="https://img.shields.io/badge/Linux%20User-FCC624?logo=linux&logoColor=black&style=for-the-badge" style="vertical-align: middle;">
+  <span style="color: #00BCD4; display: inline-block; vertical-align: middle; margin: 0 8px; font-size: 20px; line-height: 1;">&bull;</span>
+  <img alt="AI and Open Source Enthusiast" src="https://img.shields.io/badge/AI%20%26%20Open%20Source%20Enthusiast-00BCD4?logo=opensourceinitiative&logoColor=white&style=for-the-badge" style="vertical-align: middle;"><br><br>
+  <em>I build software, experiment with Linux, explore AI, and occasionally turn questionable ideas into working projects</em>
+</p>
 
-<p align="left"> <a href="https://github.com/xuanz-ai"> <img src="https://img.shields.io/github/followers/xuanz-ai?label=Followers&style=flat-square" /> </a> <a href="https://github.com/xuanz-ai?tab=repositories"> <img src="https://img.shields.io/github/stars/xuanz-ai?affiliations=OWNER&style=flat-square&label=Stars" /> </a> </p>
 
 ## 🚀 About Me
 
