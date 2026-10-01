@@ -1,7 +1,11 @@
 ###
 
 <h1 align="center">Heyy wasupp? I'm Quant 🤙<width="30px"></h1>
+Software Developer · Linux User · AI & Open Source Enthusiast
 
+I build software, experiment with Linux, explore AI, and occasionally turn questionable ideas into working projects.
+
+<p align="left"> <a href="https://github.com/xuanz-ai"> <img src="https://img.shields.io/github/followers/xuanz-ai?label=Followers&style=flat-square" /> </a> <a href="https://github.com/xuanz-ai?tab=repositories"> <img src="https://img.shields.io/github/stars/xuanz-ai?affiliations=OWNER&style=flat-square&label=Stars" /> </a> </p>
 
 ## 🚀 About Me
 
